@@ -1,0 +1,14 @@
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests\bin\Debug\tests.dll
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests\bin\Debug\tests.pdb
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests\obj\Debug\tests.csprojAssemblyReference.cache
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests\obj\Debug\tests.csproj.CoreCompileInputs.cache
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests\obj\Debug\tests.csproj.CopyComplete
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests\obj\Debug\tests.dll
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests\obj\Debug\tests.pdb

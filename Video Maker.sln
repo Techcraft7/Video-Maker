@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video Maker", "Video Maker\Video Maker.csproj", "{202B1C44-6EC5-45E8-BAD0-C1069D50ED22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests", "tests\tests.csproj", "{54CDFD22-1421-43DC-81EB-6B4E9C66B564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests2", "tests2\tests2.csproj", "{F0F5AC16-9497-47A1-ABE5-C076FA480973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{202B1C44-6EC5-45E8-BAD0-C1069D50ED22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202B1C44-6EC5-45E8-BAD0-C1069D50ED22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202B1C44-6EC5-45E8-BAD0-C1069D50ED22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202B1C44-6EC5-45E8-BAD0-C1069D50ED22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54CDFD22-1421-43DC-81EB-6B4E9C66B564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54CDFD22-1421-43DC-81EB-6B4E9C66B564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54CDFD22-1421-43DC-81EB-6B4E9C66B564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54CDFD22-1421-43DC-81EB-6B4E9C66B564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0F5AC16-9497-47A1-ABE5-C076FA480973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F5AC16-9497-47A1-ABE5-C076FA480973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0F5AC16-9497-47A1-ABE5-C076FA480973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0F5AC16-9497-47A1-ABE5-C076FA480973}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64E4E335-3206-422B-B5C3-54E38CEDE980}
+	EndGlobalSection
+EndGlobal

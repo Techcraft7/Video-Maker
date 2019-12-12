@@ -1,0 +1,11 @@
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\bin\Release\Video Maker.exe.config
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\bin\Release\Video Maker.exe
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\bin\Release\Video Maker.pdb
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\obj\Release\Video Maker.csproj.CoreCompileInputs.cache
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\obj\Release\Video Maker.csproj.CopyComplete
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\obj\Release\Video Maker.exe
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\obj\Release\Video Maker.pdb

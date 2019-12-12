@@ -1,0 +1,12 @@
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\obj\Debug\Video Maker.csprojAssemblyReference.cache
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\obj\Debug\Video Maker.csproj.CoreCompileInputs.cache
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\bin\Debug\Video Maker.exe.config
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\bin\Debug\Video Maker.exe
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\bin\Debug\Video Maker.pdb
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\obj\Debug\Video Maker.exe
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\obj\Debug\Video Maker.pdb
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Techcraft7\Source\Repos\Video Maker\Video Maker\obj\Debug\Video Maker.csproj.CopyComplete

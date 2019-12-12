@@ -1,0 +1,10 @@
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests2\bin\Debug\tests2.exe.config
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests2\bin\Debug\tests2.exe
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests2\bin\Debug\tests2.pdb
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests2\obj\Debug\tests2.csprojAssemblyReference.cache
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests2\obj\Debug\tests2.Form1.resources
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests2\obj\Debug\tests2.Properties.Resources.resources
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests2\obj\Debug\tests2.csproj.GenerateResource.cache
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests2\obj\Debug\tests2.csproj.CoreCompileInputs.cache
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests2\obj\Debug\tests2.exe
+C:\Users\Techcraft7\Source\Repos\Video Maker\tests2\obj\Debug\tests2.pdb
