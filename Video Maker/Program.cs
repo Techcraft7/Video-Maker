@@ -42,11 +42,7 @@ namespace Video_Maker
         {
             Clean();
             string folder = null;
-#if DEBUG
-            folder = @"C:\Users\Techcraft7\Documents\coh shuffled";
-#else
             folder = GetFolder();
-#endif
             if (folder == null)
             {
                 WriteLine("Folder was null or you pressed Cancel or Escape! Exiting!");
